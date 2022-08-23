@@ -45,7 +45,6 @@ public class PanelErsteAbleitung extends JPanel {
             }
         }
 
-/*
         int countAbleitung = 0;
         int countSpaces;
         if(terme[0][0] == 1) countSpaces = 4;
@@ -58,8 +57,6 @@ public class PanelErsteAbleitung extends JPanel {
             else if(terme[countAbleitung][0] < 0) countSpaces += (Integer.toString(terme[countAbleitung][0]).length() + 7);
             else countSpaces += (Integer.toString(terme[countAbleitung][0]).length() + 8);
         }
-
- */
 
     }
 
